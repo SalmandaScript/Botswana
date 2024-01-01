@@ -112,6 +112,15 @@ color: "teal"
 });
 });
 
+function benin(){
+open("https://salmandascript.github.io/Benin/Benin.html");
+}
+
+
+function burkinaFaso(){
+open("https://salmandascript.github.io/BurkinaFaso/BurkinaFaso.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
